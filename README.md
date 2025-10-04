@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 -->
 [![An image of @hagemaruwu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hagemaruwu)](https://holopin.io/@hagemaruwu)
+
 👋 About Me
+
 Hi, I'm Aditya Raj, a second-year Computer Science student.
 
 I'm passionate about front-end web development and am actively working on projects to build my skills in this area. I also have a strong interest in competitive programming and enjoy the challenge of solving complex problems.
