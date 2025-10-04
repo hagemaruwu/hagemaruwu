@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+[![An image of @hagemaruwu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hagemaruwu)](https://holopin.io/@hagemaruwu)
 👋 About Me
 Hi, I'm Aditya Raj, a second-year Computer Science student.
 
@@ -29,5 +30,4 @@ Interests: Web Development, Data Structures & Algorithms
 
 🏆 Activities
 I regularly participate in online competitive programming contests to sharpen my problem-solving abilities. I'm always looking to learn and collaborate on new projects!
-[![An image of @hagemaruwu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hagemaruwu)](https://holopin.io/@hagemaruwu)
 
