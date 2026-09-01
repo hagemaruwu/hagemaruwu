@@ -1,12 +1,12 @@
 <div align="center">
   <!-- Aesthetic Pixel Art / Lofi Banner -->
-  <img src="https://i.pinimg.com/originals/e8/37/6b/e8376bc8fffc23ad43202fc5f037ddde.gif" width="100%" alt="Pixel Art Banner" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Pixel Art Banner" style="border-radius: 15px;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Hey%2C+I'm+Aditya+Raj;Full-Stack+Developer+%7C+Open-Source+Contributor+%7C+CP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Hey%2C+I'm+Aditya+Raj;Full-Stack+Developer;Open-Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -71,27 +71,19 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 ## `📊 GitHub Stats`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hagemaruwu&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD&text_color=F8F8F2&ring_color=FF79C6" alt="GitHub Stats" />
+  <img width="49%" src="https://readme-stats-eta.vercel.app/api?username=hagemaruwu&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD&text_color=F8F8F2&ring_color=FF79C6" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hagemaruwu&theme=dracula&hide_border=true&background=0D1117&ring=FF79C6&fire=FF6E96&currStreakLabel=8BE9FD&sideLabels=F8F8F2&dates=6272A4" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagemaruwu&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://readme-stats-eta.vercel.app/api/top-langs/?username=hagemaruwu&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
----
 
-## `🏆 GitHub Trophies`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hagemaruwu&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 ---
 
@@ -99,19 +91,19 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 
 <div align="center">
   <a href="https://github.com/hagemaruwu/Reliable-Group-Notification-System">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hagemaruwu&repo=Reliable-Group-Notification-System&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Reliable Group Notification System" />
+    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=Reliable-Group-Notification-System&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Reliable Group Notification System" />
   </a>
   <a href="https://github.com/hagemaruwu/CodeChef-PESUECC-Chapter">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hagemaruwu&repo=CodeChef-PESUECC-Chapter&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="CodeChef PESUECC Chapter" />
+    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=CodeChef-PESUECC-Chapter&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="CodeChef PESUECC Chapter" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/hagemaruwu/CN---Bandwidth-Measurement-and-Analysis">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hagemaruwu&repo=CN---Bandwidth-Measurement-and-Analysis&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Bandwidth Measurement and Analysis" />
+    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=CN---Bandwidth-Measurement-and-Analysis&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Bandwidth Measurement and Analysis" />
   </a>
   <a href="https://github.com/hagemaruwu/Portfolio-website">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hagemaruwu&repo=Portfolio-website&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Portfolio Website" />
+    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=Portfolio-website&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Portfolio Website" />
   </a>
 </div>
 
