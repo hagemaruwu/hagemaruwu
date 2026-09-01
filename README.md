@@ -87,25 +87,46 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 
 ---
 
-## `🚀 Featured Projects`
+## `🏆 Competitive Programming`
 
 <div align="center">
-  <a href="https://github.com/hagemaruwu/Reliable-Group-Notification-System">
-    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=Reliable-Group-Notification-System&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Reliable Group Notification System" />
-  </a>
-  <a href="https://github.com/hagemaruwu/CodeChef-PESUECC-Chapter">
-    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=CodeChef-PESUECC-Chapter&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="CodeChef PESUECC Chapter" />
-  </a>
+  <p style="color: #F8F8F2;"><strong>LeetCode:</strong> Rating 1693 | 300+ problems solved</p>
+  <p style="color: #F8F8F2;"><strong>Codeforces:</strong> Rating 1321 | Top 6.5% globally in Div. 4 | 200+ problems</p>
+  <p style="color: #F8F8F2;"><strong>CodeChef:</strong> Ranked 495 globally in Starters 211 | 250+ problems</p>
+  
+  <br/>
+  
+  <!-- Custom LeetCode/Codeforces stats can go here if APIs are used, currently using clean text matching the resume -->
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/hagemaruwu/CN---Bandwidth-Measurement-and-Analysis">
-    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=CN---Bandwidth-Measurement-and-Analysis&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Bandwidth Measurement and Analysis" />
-  </a>
-  <a href="https://github.com/hagemaruwu/OS-Jackfruit">
-    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=OS-Jackfruit&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="OS Jackfruit" />
-  </a>
-</div>
+<br/>
+
+---
+
+## `💻 Featured Projects`
+
+### 🔒 SecureNotify – Reliable Group Notification System
+*Python, pytest, GitHub Actions CI, SSL/TLS, UDP, POSIX Sockets, Distributed Systems*
+* Designed a custom binary protocol (seq/type/len/CRC32) with ACK tracking and retransmission, achieving 90–100% delivery under 30% simulated packet loss.
+* Built a hybrid TLS 1.3 + UDP architecture with priority-tiered retry logic and per-client state isolation.
+
+### 🏆 CodeChef PESUECC Chapter Portal
+*Next.js, React, TypeScript, Cloudflare Pages/D1, GitHub Actions*
+* Led frontend development for an edge-deployed platform serving the CP chapter’s contest leaderboard and GitOps-driven challenge pipeline.
+* Built Initiatives and Registration pages end-to-end and contributed to backend Cloudflare D1 integration.
+
+### 🏎️ RaceLens – Pthread Data Race Detector
+*C, POSIX Threads, LD_PRELOAD, Dynamic Linking*
+* Engineered a lockset-based concurrency-race detector for multithreaded C programs using LD_PRELOAD dynamic interposition.
+* Implemented a simplified Eraser-style lockset algorithm with zero false positives on synchronized controls.
+
+### 🎙️ DubSync – YouTube Hindi Dubbing Extension
+*Chrome MV3, Node.js, Express, Azure Translator & Speech SDK, FFmpeg*
+* Built an extension + backend to dub YouTube English videos into Hindi using Azure Speech SDK TTS and yt-dlp.
+* Engineered a drift-correction module using FFmpeg’s atempo filter to maintain sync across full-length videos.
 
 <br/>
 
