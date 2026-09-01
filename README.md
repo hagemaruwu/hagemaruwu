@@ -162,10 +162,10 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 
 ---
 
-## `📈 Activity Graph`
+## `📈 Contribution Activity`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hagemaruwu&theme=dracula&hide_border=true&bg_color=0D1117&color=FF79C6&line=8BE9FD&point=FF79C6&area=true&area_color=44475A" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/FF79C6/hagemaruwu" alt="Aditya's GitHub Activity Chart" />
 </div>
 
 <br/>
