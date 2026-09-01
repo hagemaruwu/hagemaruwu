@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Hey%2C+I'm+Aditya+Raj;Full-Stack+Developer;Open-Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%E2%9C%A8+Hey%2C+I'm+Aditya+Raj;Full-Stack+Developer;Open-Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -102,8 +102,8 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
   <a href="https://github.com/hagemaruwu/CN---Bandwidth-Measurement-and-Analysis">
     <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=CN---Bandwidth-Measurement-and-Analysis&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Bandwidth Measurement and Analysis" />
   </a>
-  <a href="https://github.com/hagemaruwu/Portfolio-website">
-    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=Portfolio-website&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="Portfolio Website" />
+  <a href="https://github.com/hagemaruwu/OS-Jackfruit">
+    <img width="49%" src="https://readme-stats-eta.vercel.app/api/pin/?username=hagemaruwu&repo=OS-Jackfruit&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD" alt="OS Jackfruit" />
   </a>
 </div>
 
