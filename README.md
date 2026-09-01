@@ -108,12 +108,12 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 
 ## `💻 Featured Projects`
 
-### 🔒 SecureNotify – Reliable Group Notification System
+### 🔒 [SecureNotify – Reliable Group Notification System](https://github.com/hagemaruwu/SecureNotify)
 *Python, pytest, GitHub Actions CI, SSL/TLS, UDP, POSIX Sockets, Distributed Systems*
 * Designed a custom binary protocol (seq/type/len/CRC32) with ACK tracking and retransmission, achieving 90–100% delivery under 30% simulated packet loss.
 * Built a hybrid TLS 1.3 + UDP architecture with priority-tiered retry logic and per-client state isolation.
 
-### 🏆 CodeChef PESUECC Chapter Portal
+### 🏆 [CodeChef PESUECC Chapter Portal](https://github.com/hagemaruwu/CodeChef-PESUECC-Chapter)
 *Next.js, React, TypeScript, Cloudflare Pages/D1, GitHub Actions*
 * Led frontend development for an edge-deployed platform serving the CP chapter’s contest leaderboard and GitOps-driven challenge pipeline.
 * Built Initiatives and Registration pages end-to-end and contributed to backend Cloudflare D1 integration.
@@ -123,7 +123,7 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 * Engineered a lockset-based concurrency-race detector for multithreaded C programs using LD_PRELOAD dynamic interposition.
 * Implemented a simplified Eraser-style lockset algorithm with zero false positives on synchronized controls.
 
-### 🎙️ DubSync – YouTube Hindi Dubbing Extension
+### 🎙️ [DubSync – YouTube Hindi Dubbing Extension](https://github.com/hagemaruwu/DubSync)
 *Chrome MV3, Node.js, Express, Azure Translator & Speech SDK, FFmpeg*
 * Built an extension + backend to dub YouTube English videos into Hindi using Azure Speech SDK TTS and yt-dlp.
 * Engineered a drift-correction module using FFmpeg’s atempo filter to maintain sync across full-length videos.
