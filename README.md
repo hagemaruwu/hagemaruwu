@@ -108,10 +108,12 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 
 ## `💻 Featured Projects`
 
-### 🔒 [SecureNotify – Reliable Group Notification System](https://github.com/hagemaruwu/SecureNotify)
-*Python, pytest, GitHub Actions CI, SSL/TLS, UDP, POSIX Sockets, Distributed Systems*
-* Designed a custom binary protocol (seq/type/len/CRC32) with ACK tracking and retransmission, achieving 90–100% delivery under 30% simulated packet loss.
-* Built a hybrid TLS 1.3 + UDP architecture with priority-tiered retry logic and per-client state isolation.
+### 🔒 [SecureNotify – Reliable UDP Notification Engine](https://github.com/hagemaruwu/securenotify)
+*Python, TCP/UDP Sockets, TLS 1.3, Distributed Systems*
+* Designed a hybrid pub/sub engine using TLS 1.3 for secure subscription handshakes and a custom UDP data plane for ultra-fast message broadcasts.
+* Engineered application-layer reliability over UDP with a 10-byte binary header (sequence, type, CRC16), tracking unacknowledged packets via a priority min-heap retry queue.
+* Handled high-load concurrency by re-architecting the UDP listener to treat any incoming valid packet as proof-of-life, eliminating false-eviction bugs under stress.
+* Achieved a peak throughput of ~2,380 deliveries/sec (30 concurrent clients, 5.6ms latency) over loopback before hitting OS UDP receive buffer limits.
 
 ### 🏆 [CodeChef PESUECC Chapter Portal](https://github.com/hagemaruwu/CodeChef-PESUECC-Chapter)
 *Next.js, React, TypeScript, Cloudflare Pages/D1, GitHub Actions*
