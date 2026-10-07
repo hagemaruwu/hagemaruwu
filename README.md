@@ -120,10 +120,10 @@ fun_fact: "Every pixel has a purpose, and every line of code tells a story."
 * Led frontend development for an edge-deployed platform serving the CP chapter’s contest leaderboard and GitOps-driven challenge pipeline.
 * Built Initiatives and Registration pages end-to-end and contributed to backend Cloudflare D1 integration.
 
-### 🏎️ RaceLens – Pthread Data Race Detector
+### 🏎️ [RaceLens – Pthread Data Race Detector](https://github.com/hagemaruwu/racelens)
 *C, POSIX Threads, LD_PRELOAD, Dynamic Linking*
-* Engineered a lockset-based concurrency-race detector for multithreaded C programs using LD_PRELOAD dynamic interposition.
-* Implemented a simplified Eraser-style lockset algorithm with zero false positives on synchronized controls.
+* Built an Eraser-style lockset race detector for multithreaded C programs at ~19% runtime overhead, intercepting pthread mutex calls via LD_PRELOAD (dlsym/RTLD_NEXT) and tracking instrumented shared-memory accesses.
+* Flagged races in 2/2 unsynchronized test programs with zero false positives on 1 synchronized control.
 
 ### 🎙️ [DubSync – YouTube Hindi Dubbing Extension](https://github.com/hagemaruwu/DubSync)
 *Chrome MV3, Node.js, Express, Azure Translator & Speech SDK, FFmpeg*
